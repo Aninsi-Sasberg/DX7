@@ -1,5 +1,7 @@
 # DX7
 
+![SOUND GIANT](./doc/Historical/Advertisements/1987--Yamaha-DX7II-D-advertisement--sound-giant.jpg)
+
 A passion for the Yamaha DX7 synth family (DX7, DX7 II) has lead us to asking many questions about what is possible. This is us spelunking deeper and deeper into the rabbithole.
 
 ## Projects
