@@ -14,7 +14,7 @@ A passion for the Yamaha DX7 synth family (DX7, DX7 II) has lead us to asking ma
 
 ### [doc](./doc/)
 
-This repo includes documentation from Yamaha itself, as well as from other DX7 enthusiasts having already worked out many quirks and details deemed too cryptic to be understood from the original user manuals by us.
+This repo includes documentation from [Yamaha itself](doc/Manuals/DX7-II-FD--Manual.pdf), as well as from [other DX7 enthusiasts](./doc/links.md) having already worked out many quirks and details deemed too cryptic to be understood from the original user manuals by us.
 
 ### [src](./src/)
 
