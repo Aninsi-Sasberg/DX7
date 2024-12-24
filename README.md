@@ -4,7 +4,7 @@ A passion for the Yamaha DX7 synth family (DX7, DX7 II) has lead us to asking ma
 
 ## Projects
 
-### [DX7 SysEx Datamoshing](./src/DX7-II-data-moshing/README.md)
+### [DX7 SysEx Datamoshing](./src/DX7-II-data-moshing/)
 
 ### Livecoding Performance with DX7 Datamoshing
 
